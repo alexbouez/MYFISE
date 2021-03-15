@@ -1,4 +1,4 @@
-<img src="media/title.png" alt="Title" width="200" height="200"/>
+<img src="media/title.png" alt="Title" width="500"/>
 
 My First Server: web-dev solo project. 
 
