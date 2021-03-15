@@ -1,4 +1,4 @@
-![Title](./media/title.png)
+![Title](./media/title.png =250x250)
 
 My First Server: web-dev solo project. 
 
