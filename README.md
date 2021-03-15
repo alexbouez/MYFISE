@@ -1,4 +1,4 @@
-![Title](title.jpg)
+![Title](media/title.jpg)
 
 My First Server: web-dev solo project. 
 
