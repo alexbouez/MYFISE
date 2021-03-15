@@ -1,14 +1,19 @@
-# MYFISE
-
+  __  ____     __  ______ _____  _____ ______ 
+ |  \/  \ \   / / |  ____|_   _|/ ____|  ____|
+ | \  / |\ \_/ /  | |__    | | | (___ | |__   
+ | |\/| | \   /   |  __|   | |  \___ \|  __|  
+ | |  | |  | |    | |     _| |_ ____) | |____ 
+ |_|  |_|  |_|    |_|    |_____|_____/|______|
+                                              
 My First Server: web-dev solo project. 
 
-## Environment
+# Environment
 
-### Context
+## Context
 
 The server is being deployed on a Raspberry Pi 3, Model B.
 Ubuntu Server 20.04.2 LTS 64-bit was flashed on a 32Gb SD card using Raspberry Pi imager v1.3 (Mar 2021).
 
-### Configuration
+## Configuration
 
 The server is deployed using Apache2. 
