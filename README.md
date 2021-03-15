@@ -1,4 +1,4 @@
-![Title](./media/title.png =250x250)
+<img src="title.png" alt="Title" width="200" height="200"/>
 
 My First Server: web-dev solo project. 
 
